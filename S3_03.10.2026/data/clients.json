@@ -1,0 +1,110 @@
+[
+  {
+    "client": "Агрохолдинг Нива",
+    "inn": "6051090392",
+    "contract": {
+      "number": "D-936",
+      "signed": "2024-11-15"
+    },
+    "contacts": [
+      {
+        "type": "email",
+        "value": "info@51.ru"
+      },
+      {
+        "type": "phone",
+        "value": "+79997398647"
+      }
+    ]
+  },
+  {
+    "client": "МеталлПром",
+    "inn": "7475240249",
+    "contract": {
+      "number": "D-869",
+      "signed": "2024-11-15"
+    },
+    "contacts": [
+      {
+        "type": "email",
+        "value": "info@17.ru"
+      },
+      {
+        "type": "phone",
+        "value": "+79995891257"
+      }
+    ]
+  },
+  {
+    "client": "СтройБаза 77",
+    "inn": "5462518813",
+    "contract": {
+      "number": "D-848",
+      "signed": "2024-11-15"
+    },
+    "contacts": [
+      {
+        "type": "email",
+        "value": "info@73.ru"
+      },
+      {
+        "type": "phone",
+        "value": "+79998490001"
+      }
+    ]
+  },
+  {
+    "client": "НефтеТрейд",
+    "inn": "7204667143",
+    "contract": {
+      "number": "D-126",
+      "signed": "2024-11-15"
+    },
+    "contacts": [
+      {
+        "type": "email",
+        "value": "info@77.ru"
+      },
+      {
+        "type": "phone",
+        "value": "+79993254381"
+      }
+    ]
+  },
+  {
+    "client": "ЛесЭкспорт",
+    "inn": "5088853451",
+    "contract": {
+      "number": "D-349",
+      "signed": "2024-11-15"
+    },
+    "contacts": [
+      {
+        "type": "email",
+        "value": "info@21.ru"
+      },
+      {
+        "type": "phone",
+        "value": "+79994753046"
+      }
+    ]
+  },
+  {
+    "client": "РитейлСеть",
+    "inn": "7658924424",
+    "contract": {
+      "number": "D-286",
+      "signed": "2024-11-15"
+    },
+    "contacts": [
+      {
+        "type": "email",
+        "value": "info@31.ru"
+      },
+      {
+        "type": "phone",
+        "value": "+79992722607"
+      }
+    ]
+  }
+]
