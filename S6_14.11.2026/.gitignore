@@ -1,0 +1,7 @@
+# Игнорируем библиотеки
+.venv/
+# Кэш
+__pycache__/
+# Изменения в процессе
+data/processed/
+reports/figures/
